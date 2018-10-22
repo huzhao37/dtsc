@@ -18,6 +18,7 @@
 1. xxxx
 2. xxxx
 3. xxxx
+![部分效果图](https://images.gitee.com/uploads/images/2018/1022/161347_443566a4_671199.png "屏幕截图.png")
 
 #### 参与贡献
 
