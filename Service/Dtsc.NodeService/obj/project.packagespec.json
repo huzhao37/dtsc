@@ -1,0 +1,96 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "G:\\2018\\Yunt\\Yunt\\Dtsc.NodeService\\Dtsc.NodeService.csproj",
+    "projectName": "Dtsc.NodeService",
+    "projectPath": "G:\\2018\\Yunt\\Yunt\\Dtsc.NodeService\\Dtsc.NodeService.csproj",
+    "outputPath": "G:\\2018\\Yunt\\Yunt\\Dtsc.NodeService\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "G:\\2018\\Yunt\\Yunt\\Yunt.Common\\Yunt.Common.csproj": {
+            "projectPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Common\\Yunt.Common.csproj"
+          },
+          "G:\\2018\\Yunt\\Yunt\\Yunt.Dtsc.Core\\Yunt.Dtsc.Core.csproj": {
+            "projectPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Dtsc.Core\\Yunt.Dtsc.Core.csproj"
+          },
+          "G:\\2018\\Yunt\\Yunt\\Yunt.Dtsc.Domain\\Yunt.Dtsc.Domain.csproj": {
+            "projectPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Dtsc.Domain\\Yunt.Dtsc.Domain.csproj"
+          },
+          "G:\\2018\\Yunt\\Yunt\\Yunt.Redis\\Yunt.Redis.csproj": {
+            "projectPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Redis\\Yunt.Redis.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.Extensions.Configuration.Binder": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.Extensions.Configuration.Json": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.Extensions.Configuration.Xml": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.Extensions.Options.ConfigurationExtensions": {
+          "target": "Package",
+          "version": "[2.0.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "NewLife.XCode": {
+          "target": "Package",
+          "version": "[9.7.6722.39741, )"
+        },
+        "System.Configuration.ConfigurationManager": {
+          "target": "Package",
+          "version": "[4.4.1, )"
+        },
+        "System.Data.SqlClient": {
+          "target": "Package",
+          "version": "[4.5.0-rc1, )"
+        },
+        "System.Management": {
+          "target": "Package",
+          "version": "[4.5.0-preview2-26406-04, )"
+        },
+        "System.Security.Permissions": {
+          "target": "Package",
+          "version": "[4.4.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

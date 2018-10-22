@@ -1,0 +1,58 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "G:\\2018\\Yunt\\Yunt\\Yunt.Dtsc.Core\\Yunt.Dtsc.Core.csproj",
+    "projectName": "Yunt.Dtsc.Core",
+    "projectPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Dtsc.Core\\Yunt.Dtsc.Core.csproj",
+    "outputPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Dtsc.Core\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "G:\\2018\\Yunt\\Yunt\\Yunt.Common\\Yunt.Common.csproj": {
+            "projectPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Common\\Yunt.Common.csproj"
+          },
+          "G:\\2018\\Yunt\\Yunt\\Yunt.Dtsc.Domain\\Yunt.Dtsc.Domain.csproj": {
+            "projectPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Dtsc.Domain\\Yunt.Dtsc.Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "NewLife.XCode": {
+          "target": "Package",
+          "version": "[9.7.6722.39741, )"
+        },
+        "Quartz": {
+          "target": "Package",
+          "version": "[3.0.4, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

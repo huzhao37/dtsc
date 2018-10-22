@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Yunt.Common</id>
+    <version>1.0.0</version>
+    <authors>Yunt.Common</authors>
+    <owners>Yunt.Common</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.EntityFrameworkCore" version="2.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="2.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="2.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyModel" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Console" version="2.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="2.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.EventSource" version="2.0.2" exclude="Build,Analyzers" />
+        <dependency id="NewLife.Core" version="7.0.6712.2419" exclude="Build,Analyzers" />
+        <dependency id="SharpCompress" version="0.20.0" exclude="Build,Analyzers" />
+        <dependency id="protobuf-net" version="2.3.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\2018\Yunt\Yunt\Yunt.Common\bin\Debug\netcoreapp2.1\Yunt.Common.dll" target="lib\netcoreapp2.1\Yunt.Common.dll" />
+  </files>
+</package>

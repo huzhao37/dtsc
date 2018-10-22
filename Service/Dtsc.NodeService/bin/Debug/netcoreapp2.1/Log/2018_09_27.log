@@ -1,0 +1,550 @@
+﻿#Software: Dtsc.NodeService
+#ProcessID: 8108 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+11:04:23.460  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+11:04:23.461  1 N - Dtsc.NodeService 
+11:04:23.461  1 N - Setting的配置文件Config\Core.config 不存在，准备用默认配置覆盖！
+11:04:23.521  1 N - Setting的配置文件Config\XCode.config 不存在，准备用默认配置覆盖！
+
+#Software: Dtsc.NodeService
+#ProcessID: 19784 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+11:13:58.731  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+11:13:58.732  1 N - Dtsc.NodeService 
+11:13:58.732  1 N - 配置文件G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Config\Core.config格式不一致，保存为最新格式！
+11:13:58.735  1 N - 配置文件G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Config\XCode.config格式不一致，保存为最新格式！
+
+#Software: Dtsc.NodeService
+#ProcessID: 11592 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+11:14:48.060  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+11:14:48.060  1 N - Dtsc.NodeService 
+11:16:08.791  1 N - 在 {0} 需要冒号
+
+#Software: Dtsc.NodeService
+#ProcessID: 15108 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+11:16:53.602  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+11:16:53.603  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 1784 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+11:26:39.311  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+11:26:39.312  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 20916 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+11:27:51.502  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+11:27:51.503  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 19252 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+11:31:52.096  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+11:31:52.097  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 12124 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:25:53.613  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+13:25:53.614  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 15700 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:28:15.578  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+13:28:15.579  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 12180 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:31:12.363  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+13:31:12.364  1 N - Dtsc.NodeService 
+13:31:12.364  1 N - 配置文件G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Config\Core.config格式不一致，保存为最新格式！
+13:31:12.368  1 N - 配置文件G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Config\XCode.config格式不一致，保存为最新格式！
+
+#Software: Dtsc.NodeService
+#ProcessID: 17048 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:35:09.153  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+13:35:09.154  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 16880 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:36:52.647  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+13:36:52.648  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 11628 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:40:24.234  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+13:40:24.236  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 19068 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:41:45.157  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+13:41:45.158  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 7880 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:53:11.343  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+13:53:11.344  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 12260 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:54:14.757  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+13:54:14.758  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 13276 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:54:52.612  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+13:54:52.613  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 9208 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:01:09.598  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:01:09.599  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 18532 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:06:04.102  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:06:04.103  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 14380 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:06:29.817  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:06:29.818  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 2892 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:06:48.576  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:06:48.577  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 13424 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:11:58.759  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:11:58.760  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 8344 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:14:10.842  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:14:10.843  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 19360 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:15:38.368  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:15:38.369  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 9776 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:17:09.847  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:17:09.848  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 13516 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:18:13.556  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:18:13.557  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 9496 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:18:52.594  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:18:52.595  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 18160 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:24:43.457  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:24:43.458  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 6348 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:25:32.776  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:25:32.777  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 19072 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:26:33.000  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:26:33.001  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 21516 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:30:54.555  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:30:54.556  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 19360 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:42:42.277  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+14:42:42.278  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 12416 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:05:52.371  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+15:05:52.372  1 N - Dtsc.NodeService 
+
+#Software: Dtsc.NodeService
+#ProcessID: 15472 x64
+#AppDomain: Dtsc.NodeService
+#FileName: C:\Program Files\dotnet\dotnet.exe
+#BaseDirectory: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\
+#CommandLine: G:\2018\Yunt\Yunt\Dtsc.NodeService\bin\Debug\netcoreapp2.1\Dtsc.NodeService.dll
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, 
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ZHAOH-HP/zhaoh
+#CPU: 4
+#Date: 2018-09-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:19:00.942  1 N - Dtsc.NodeService v1.0.0.0 Build 2000-01-01 
+15:19:00.943  1 N - Dtsc.NodeService 

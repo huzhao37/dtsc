@@ -1,0 +1,71 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "G:\\2018\\Yunt\\Yunt\\Yunt.Redis\\Yunt.Redis.csproj",
+    "projectName": "Yunt.Redis",
+    "projectPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Redis\\Yunt.Redis.csproj",
+    "outputPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Redis\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "G:\\2018\\Yunt\\Yunt\\Yunt.Common\\Yunt.Common.csproj": {
+            "projectPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Common\\Yunt.Common.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.Extensions.Configuration.Binder": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.Extensions.Configuration.Json": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.Extensions.Options": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[11.0.1, )"
+        },
+        "protobuf-net": {
+          "target": "Package",
+          "version": "[2.3.7, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

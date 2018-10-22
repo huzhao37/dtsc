@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "148663d4f059763fdc4dfc260795fbfcf5be300e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Yunt.Dtsc.Domain/1.0.0": {
+        "dependencies": {
+          "NewLife.Core": "7.0.6712.2419",
+          "NewLife.XCode": "9.7.6712.2420"
+        },
+        "runtime": {
+          "Yunt.Dtsc.Domain.dll": {}
+        }
+      },
+      "NewLife.Core/7.0.6712.2419": {
+        "runtime": {
+          "lib/netstandard2.0/NewLife.Core.dll": {}
+        }
+      },
+      "NewLife.XCode/9.7.6712.2420": {
+        "dependencies": {
+          "NewLife.Core": "7.0.6712.2419"
+        },
+        "runtime": {
+          "lib/netstandard2.0/XCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yunt.Dtsc.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewLife.Core/7.0.6712.2419": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ARhn94lxbhdqbneaqloqyXX7rEVsxOfylcGZcmedniWbto46/oRhh/iXoAXbQi6fYnPqD37YHoci1+gS7a+oBA==",
+      "path": "newlife.core/7.0.6712.2419",
+      "hashPath": "newlife.core.7.0.6712.2419.nupkg.sha512"
+    },
+    "NewLife.XCode/9.7.6712.2420": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yKLTBjVSiRKR1Qy24mWzxtjTyf74dGHz698rYE/TjONv17wU4DiNfgw/olcYHvZpTuRvwTjmQIfWF9d3upgnkg==",
+      "path": "newlife.xcode/9.7.6712.2420",
+      "hashPath": "newlife.xcode.9.7.6712.2420.nupkg.sha512"
+    }
+  }
+}

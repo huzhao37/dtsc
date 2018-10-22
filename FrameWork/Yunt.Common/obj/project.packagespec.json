@@ -1,0 +1,83 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "G:\\2018\\Yunt\\Yunt\\Yunt.Common\\Yunt.Common.csproj",
+    "projectName": "Yunt.Common",
+    "projectPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Common\\Yunt.Common.csproj",
+    "outputPath": "G:\\2018\\Yunt\\Yunt\\Yunt.Common\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.0.3, )"
+        },
+        "Microsoft.Extensions.Configuration": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.Extensions.Configuration.Binder": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.Extensions.DependencyModel": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.Extensions.Logging.Console": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.Extensions.Logging.Debug": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.Extensions.Logging.EventSource": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "NewLife.Core": {
+          "target": "Package",
+          "version": "[7.0.6712.2419, )"
+        },
+        "SharpCompress": {
+          "target": "Package",
+          "version": "[0.20.0, )"
+        },
+        "protobuf-net": {
+          "target": "Package",
+          "version": "[2.3.7, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
