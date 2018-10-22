@@ -22,6 +22,8 @@
 ![任务列表](https://images.gitee.com/uploads/images/2018/1022/161347_443566a4_671199.png "屏幕截图.png")
 ![性能监控](https://images.gitee.com/uploads/images/2018/1022/161521_17f508e8_671199.png "屏幕截图.png")
 
+接下来的计划，陆续给出前端api及代码...敬请期待！
+
 
 
 #### 参与贡献
